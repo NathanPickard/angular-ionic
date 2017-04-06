@@ -63798,7 +63798,7 @@ function headerFooterBarDirective(isHeader) {
  * @usage
  * ```html
  * <ion-content ng-controller="MyController">
- *   <ion-list>
+ *   <>
  *   ....
  *   ....
  *   </ion-list>
